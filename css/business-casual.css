@@ -142,6 +142,12 @@ p {
   background-color: rgba(230, 167, 86, 0.9);
 }
 
+.cta2 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: rgba(210, 190, 140, 0.9);
+}
+
 .cta .cta-inner {
   position: relative;
   padding: 3rem;
